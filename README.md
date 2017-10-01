@@ -23,7 +23,7 @@ https://github.com/webcat12345/ngx-intl-tel-input/pull/3
 To install this library, run:
 
 ```bash
-$ npm install ngx-intl-tel-input --save
+$ npm install sawasdeeidea/ngx-intl-tel-input --save
 ```
 
 This library depends on `BsDropdownModule` from `ngx-bootstrap/dropdown`.
